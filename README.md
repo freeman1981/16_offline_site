@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+For develop this site with out internet - all external dependencies was stored in project.
 
 # Project Goals
 
